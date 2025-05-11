@@ -127,4 +127,5 @@ Use tools like **Postman** or **Thunder Client** to test API endpoints. Don't fo
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This is a personal project, but feel free to explore, fork, or use the code for learning purposes. Attribution is appreciated.
+
